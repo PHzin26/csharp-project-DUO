@@ -10,4 +10,4 @@ Projeto em desenvolvimento
 
 ## atualização
 
-Contribuição feita pelo colega Gabriel.
+Contribuição feita pelo colega Gabriel Andrade.
