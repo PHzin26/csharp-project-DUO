@@ -1,2 +1,7 @@
 # csharp-project-DUO
-Final project applying Git, GitHub and Git Flow concepts with C#
+
+## 📌 Overview
+Final project applying Git, GitHub and Git Flow concepts with C#.
+
+## 🚧 Status
+Projeto em desenvolvimento
